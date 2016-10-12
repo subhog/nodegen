@@ -4,8 +4,8 @@
   "description": "Easily configurable file generator.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": "subhog/nodegen",
   "author": "hubert@orlikarnia.com",
   "license": "MIT"
 }
